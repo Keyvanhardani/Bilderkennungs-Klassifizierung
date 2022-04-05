@@ -1,5 +1,7 @@
 KI Projekt für HDBW - Hochschule der Bayerischen Wirtschaft München
 
+Cyber Security Masterarbeit. V1.0.0.1
+
 Usage: 
 on Linux: python3 server.py
 on Windows: python server.py
