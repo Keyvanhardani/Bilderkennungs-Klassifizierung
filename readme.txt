@@ -1,4 +1,4 @@
-KI Projekt
+KI Projekt für HDBW - Hochschule der Bayerischen Wirtschaft München
 
 Usage: 
 on Linux: python3 server.py
